@@ -1,6 +1,7 @@
 # Horiseon Refactor - Accessibility
 
-[Digital Marketing Meeting](assets/images/digital-marketing-meeting.png)
+<img src="assets/images/digital-marketing-meeting.jpg" width="600" height="400">
+
 ## Background
 A client marketing agency, Horiseon, reached out in order to refactor the source code for their website to meet accessibility standards.  
 
