@@ -8,6 +8,15 @@
 body {
     background-color: #d9dcd6;
 }
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 /* Overarching Style Properties Ends */
 
 /* Header Style Properties Begins */
@@ -43,16 +52,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header Style Properties End */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Hero Style Begins */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +63,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style Ends */
+
 
 .float-left {
     float: left;
