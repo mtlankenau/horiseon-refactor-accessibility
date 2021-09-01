@@ -1,3 +1,4 @@
+/* Overarching Style Properties Begins */ 
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,9 @@
 body {
     background-color: #d9dcd6;
 }
+/* Overarching Style Properties Ends */
 
+/* Header Style Properties Begins */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
