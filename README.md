@@ -1,5 +1,6 @@
 # Horiseon Refactor - Accessibility
 
+[Digital Marketing Meeting](assets/images/digital-marketing-meeting.png)
 ## Background
 A client marketing agency, Horiseon, reached out in order to refactor the source code for their website to meet accessibility standards.  
 
@@ -21,8 +22,5 @@ THEN they fall in sequential order.
 THEN I find a concise, descriptive title.
 
 ## Final Product
-A screenshot of the final verison of the deployed application is located below:
 
-![Alt text](./pictures/Screenshot-2021-09-01-165043.png)
-
-See the live URL of the deployed application here: https://PLACEHOLDER-URL.com
+See the live URL of the deployed application here: https://mtlankenau.github.io/horiseon-refactor-accessibility/
