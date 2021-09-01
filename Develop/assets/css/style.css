@@ -54,7 +54,7 @@ a {
 }
 /* Header Style Properties End */
 
-/* Hero Style Begins */
+/* Hero Style Properties Begins */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,14 +63,9 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* Hero Style Ends */
+/* Hero Style Properties Ends */
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Benefits/Benefits-Types Style Properties Begins */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,8 +92,16 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefits/Benefits-Types Style Properties Ends */
 
-.search-engine-optimization {
+/* Content/Content-Services Style Properties Begins */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content-services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,51 +110,17 @@ a {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content-services img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content-services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Content/Content-Services Style Properties Ends */
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Footer Style Properties Begins */
 .footer {
     padding: 30px;
     clear: both;
@@ -162,8 +131,9 @@ a {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style Properties Ends /*
 
-/* Utility Class Selectors Begins */
+/* Utility Class Selectors Style Properties Begins */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -173,4 +143,4 @@ a {
     float: right;
     margin-left: 25px;
 }
-/* Utility Class Selectors Ends */
+/* Utility Class Selectors Style Properties Ends */
