@@ -23,6 +23,6 @@ THEN I find a concise, descriptive title.
 ## Final Product
 A screenshot of the final verison of the deployed application is located below:
 
-IMAGE SHOULD BE PLACED HERE
+![Alt text](./pictures/Screenshot-2021-09-01-165043.png)
 
 See the live URL of the deployed application here: https://PLACEHOLDER-URL.com
